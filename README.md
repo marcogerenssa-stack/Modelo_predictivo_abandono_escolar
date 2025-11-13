@@ -31,7 +31,14 @@ En Google Colab, el propio notebook incluye celdas que instalan las dependencias
 Abra el archivo Proyecto_abandono_escolar_Predict.ipynb en su entorno de preferencia (Google Colab, Jupyter, etc.).
 Ejecute las celdas de código en orden secuencial, desde el inicio hasta el final del documento.
 Durante la primera ejecución, es normal que la instalación de librerías requiera unos minutos. Le recomendamos aguardar a que este proceso finalice.
-Una vez completado, podrá revisar los resultados, que incluyen gráficos, métricas de rendimiento y los coeficientes de los modelos.
+Una vez completado, podrá revisar los resultados, que incluyen gráficos, métricas de rendimiento y los coeficientes de los modelos.  
+
+# Recursos
+
+Este proyecto cuenta con los siguientes recursos:
+- Base_abandono_escolar.xlsx --> es el dataset original, que contiene un conjunto de variables de la ENDSA 2023 que explican el abandono escolar, el target y más de 20 mil observaciones
+- Proyecto final de módulo.pdf --> es el documento de proyecto, que contiene el marco referencial y marco práctico, así como conclusiones e insights
+- Proyecto_abandono_escolar_Predict.ipynb --> es el notebook que contiene todo el código desarrollado, resultados, gráficos, métricas de rendimiento y los coeficientes de los modelos
 
 # Enlace a video explicativo: 
 https://drive.google.com/file/d/1vK2TvTW8Rb977vSw95N-EpmniGDODBPk/view?usp=sharing
